@@ -13,6 +13,7 @@ This project explores global smoking patterns using a multi-year dataset that in
 Source: [CORGIS Smoking Dataset](https://corgis-edu.github.io/corgis/csv/smoking/)
 
 ## Enviroment Setup 
+This project was executed within WSL using the Debian Linux distribution
 ### 1. Activate WSL (Debian)
 ```bash
 wsl -d Debian
