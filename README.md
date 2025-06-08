@@ -31,13 +31,18 @@ Source: [CORGIS Smoking Dataset](https://corgis-edu.github.io/corgis/csv/smoking
 
 This project was executed within WSL using the Debian Linux distribution
 
-### 1. Activate WSL (Debian)
+### 1. Clone the repository:
+```bash
+https://github.com/mash1rou/data_visualization_smoking
+```
+
+### 2. Activate WSL (Debian)
 
 ```bash
 wsl -d Debian
 ```
 
-### 2. Activate Python Virtual Environment
+### 3. Activate Python Virtual Environment
 
 If you don't have one yet, run:
 ```bash
@@ -51,13 +56,13 @@ python3 -m venv myenv
 source myenv/bin/activate
 ```
 
-### 3. Install Jupyter Notebook
+### 4. Install Jupyter Notebook
 
 ```bash
 pip install notebook
 ```
 
-### 4. Install Project Dependencies
+### 5. Install Project Dependencies
 
 ```bash
 pip install pandas plotly seaborn matplotlib statsmodels ipywidgets
@@ -67,7 +72,7 @@ pip install pandas plotly seaborn matplotlib statsmodels ipywidgets
 
 ## Run the Project
 
-### 5. Launch Jupyter Notebook
+### 6. Launch Jupyter Notebook
 
 ```bash
 jupyter notebook
@@ -75,14 +80,14 @@ jupyter notebook
 
 Copy the link from the terminal (e.g. `http://localhost:8888/?token=...`) and open it in your browser.
 
-### 6. Open the Notebook File
+### 7. Open the Notebook File
 
 From the Jupyter interface, open:
 ```
 final_project_smoking_data_visualization.ipynb
 ```
 
-### 7. Run All Cells
+### 8. Run All Cells
 
 In the Jupyter toolbar:
 ```
@@ -90,3 +95,11 @@ Kernel → Restart & Run All
 ```
 
 This ensures the entire notebook is executed in order.
+
+## Context
+
+This project was developed for the course *Analisis Big Data* at Universitas Gadjah Mada.
+
+## License
+
+This project is intended for academic use only and is not licensed for commercial use.
