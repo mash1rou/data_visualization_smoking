@@ -6,14 +6,12 @@
 - **Name**: Raditya Maheswara  
   **NIM**: 23/516252/PA/22075  
   **University**: Universitas Gadjah Mada (UGM)  
-  **GitHub Link**:  
-  https://github.com/mash1rou
+  **GitHub Link**: https://github.com/mash1rou
 
 - **Name**: Muhammad Fariz  
   **NIM**: 23/518174/PA/22237  
   **University**: Universitas Gadjah Mada (UGM)  
-  **GitHub Link**:  
-  https://github.com/RujakBuah
+  **GitHub Link**: https://github.com/RujakBuah
 
 - **Name**: Muhammad Shaquille Omar Ariawan  
   **NIM**: 23/511501/PA/21809  
